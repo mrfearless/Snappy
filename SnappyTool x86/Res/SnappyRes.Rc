@@ -1,0 +1,8 @@
+#define MANIFEST 						24
+1						MANIFEST  DISCARDABLE "Snappy.xml"
+100						ICON      DISCARDABLE "Snappy.ico"
+101						ICON      DISCARDABLE "cmd.ico"
+111						ICON      DISCARDABLE "spinner1.ico"
+112						ICON      DISCARDABLE "spinner2.ico"
+113						ICON      DISCARDABLE "spinner3.ico"
+114						ICON      DISCARDABLE "spinner4.ico"
