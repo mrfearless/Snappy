@@ -2,7 +2,7 @@
 
 Windows command line compression/decompression tool based on Google's snappy library - written in assembler
 
-Snappy is designed and programmed by fearless (C) Copyright 2017 and uses static builds of Google's Snappy compression/decompression library.
+Snappy is designed and programmed by fearless (C) Copyright 2017 and uses static builds of Google's Snappy compression/decompression library https://google.github.io/snappy/.
 
 
 
@@ -65,5 +65,5 @@ Snappy [ switch | command ] <folder>
 
 Compiling the Snappy tool requires the following static library dependencies: 
 
-- Console x86 library - https://github.com/mrfearless/libraries
-- Snappy x86 library - https://github.com/mrfearless/libraries
+- Console x86 library - [https://github.com/mrfearless/libraries/tree/master/Console/Console x86](https://github.com/mrfearless/libraries/tree/master/Console/Console%20x86)
+- Snappy x86 library - [https://github.com/mrfearless/libraries/tree/master/Snappy/Snappy x86](https://github.com/mrfearless/libraries/tree/master/Snappy/Snappy%20x86)
