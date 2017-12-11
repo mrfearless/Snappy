@@ -18,16 +18,18 @@ Snappy [ switch | command ] <folder>
 
 #### Switches:     
 
-`/?` | `-?` - Displays this help.
-`/c` | `-c` - Switch to set mode of operation to compression.
-`/d` | `-d` - Switch to set mode of operation to decompression.
+- `/?` | `-?` - Displays this help.
+
+- `/c` | `-c` - Switch to set mode of operation to compression.
+- `/d` | `-d` - Switch to set mode of operation to decompression.
 
 
 
 #### Commands:
 
-`c` - Command to set mode of operation to compression.
-`d` - Command to set mode of operation to decompression.
+- `c` - Command to set mode of operation to compression.
+
+- `d` - Command to set mode of operation to decompression.
 
 
 
