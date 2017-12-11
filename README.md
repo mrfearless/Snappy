@@ -1,4 +1,5 @@
-# Snappy
+# ![](./assets/Snappy.png) Snappy
+
 Windows command line compression/decompression tool based on Google's snappy library - written in assembler
 
 Snappy is designed and programmed by fearless (C) Copyright 2017 and uses static builds of Google's Snappy compression/decompression library.
@@ -18,7 +19,7 @@ Snappy [ switch | command ] <folder>
 
 #### Switches:     
 
-- `/?` | `-?` - Displays this help.
+- `/?` | `-?` - Displays snappy help usage.
 
 - `/c` | `-c` - Switch to set mode of operation to compression.
 - `/d` | `-d` - Switch to set mode of operation to decompression.
